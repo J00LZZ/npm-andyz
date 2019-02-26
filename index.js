@@ -17,7 +17,7 @@ loadJsonFile('package.json').then(json => {
         if (json.scripts.test == "echo \"Error: no test specified\" && exit 1") {
             notFinished()
         }
-        console.log("Good job, Andy would be proud.")
+        console.log("Good job, you will not be fired from this course.")
     } else {
         notFinished()
     }
