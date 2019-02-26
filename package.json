@@ -1,0 +1,22 @@
+{
+  "name": "andyz",
+  "version": "1.0.0",
+  "description": "testing is very important",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo who cares about tests lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardovogel/npm-andyz.git"
+  },
+  "author": "Ricardo Vogel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardovogel/npm-andyz/issues"
+  },
+  "homepage": "https://github.com/ricardovogel/npm-andyz#readme",
+  "dependencies": {
+    "load-json-file": "^5.2.0"
+  }
+}
