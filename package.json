@@ -1,6 +1,6 @@
 {
   "name": "andyz",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "testing is very important",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,5 @@
     "url": "https://github.com/ricardovogel/npm-andyz/issues"
   },
   "homepage": "https://github.com/ricardovogel/npm-andyz#readme",
-  "dependencies": {
-    "load-json-file": "^5.2.0"
-  }
+  "dependencies": {}
 }
