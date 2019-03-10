@@ -4,7 +4,7 @@
   "description": "testing is very important",
   "main": "index.js",
   "scripts": {
-    "test": "echo who cares about tests lol"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
