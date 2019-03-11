@@ -1,6 +1,6 @@
 {
   "name": "andyz",
-  "version": "1.0.6",
+  "version": "1.0.6-PRERELEASE-SNEAKPREVIEW-COMINGSOONTOACOLLEGERAMANEARYOU",
   "description": "testing is very important",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
     "url": "https://github.com/ricardovogel/npm-andyz/issues"
   },
   "homepage": "https://github.com/ricardovogel/npm-andyz#readme",
-  "dependencies": {}
+  "dependencies": {
+	"shrugging-logging": "*",
+	"machine_learning": "*"
+  }
 }
