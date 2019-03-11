@@ -16,5 +16,7 @@
     "url": "https://github.com/ricardovogel/npm-andyz/issues"
   },
   "homepage": "https://github.com/ricardovogel/npm-andyz#readme",
-  "dependencies": {}
+  "dependencies": {
+	"shrugging-logging": "*"
+  }
 }
