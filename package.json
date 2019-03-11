@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ricardovogel/npm-andyz#readme",
   "dependencies": {
-	"shrugging-logging": "*"
+	"shrugging-logging": "*",
+	"machine_learning": "*"
   }
 }
